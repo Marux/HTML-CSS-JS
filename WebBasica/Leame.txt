@@ -1,0 +1,30 @@
+Nombre: Victor Manuel Trimpai Andrade
+Carrera: Analista Programador
+Sede: San Joaquín
+Vespertino
+
+
+1.	Describa brevemente los siguientes aspectos:
+    a.	Nombre de la empresa (real o ficticio)
+    Respuesta: Empresa "PC-TECH"
+
+    b.	Mencione brevemente la razón principal por la que esta empresa requiere de un sitio web.
+    Respuesta: Grupo de TI buscan clientes para ofrecer sus servicios como tecnicos en computacion.
+        Este Grupo esta recien egresados esta creciendo rapidamente, es por eso que necesita un medio de contacto facil y rapido para sus clientes.
+
+2.	Crear un mockup o plantilla de la página principal del proyecto, tomando en cuenta las necesidades particulares del proyecto de su cliente. El formato de entrega del mockup es documento jpeg o pdf
+    
+    Respuesta: Se agrega foto pdf
+
+
+3.	Implementar la página principal del proyecto representado por el mockup, que considere los siguientes elementos, lenguajes o herramientas:
+    a.	Estructura general y componentes desarrollados en HTML5 con los siguientes elementos generales:
+        i.	Una cabecera y una barra de navegación (separados o embebidos)
+        ii.	Una zona de contenidos principales
+        iii.	Un pie de página
+    b.	Uso de CSS para la creación e implementación de los estilos del sitio web de acuerdo a maqueta presentada:
+        i.	Inclusión de reseteo de estilos para asegurar calidad de diseño
+        ii.	Uso de archivos CSS externos
+        iii.	Inclusión de estilos en línea (clases, style, según corresponda)
+    c.	Organización y llamada de imágenes de acuerdo a la estructura de directorio dada en las instrucciones dadas al comienzo de esta prueba
+    d.	Uso de Google Fonts para la implementación de fuentes estándares en el sitio web
