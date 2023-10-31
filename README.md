@@ -26,9 +26,10 @@ Puedes explorar esta página web básica abriendo el archivo `index.html` en tu 
 
 Si estás interesado en aprender más sobre el desarrollo web, puedes personalizar esta página o experimentar con cambios en el HTML, CSS o JavaScript. Modificar y personalizar la página es una excelente manera de practicar y aprender más sobre estas tecnologías.
 
+
 ## Vista Previa del Mockup
 
-![Vista Previa del Mockup](WebBasica/Mockup.pdf)
+Puedes ver una vista previa del mockup en el archivo PDF disponible [aquí](WebBasica/Mockup.pdf).
 
 
 ## Contribuciones
