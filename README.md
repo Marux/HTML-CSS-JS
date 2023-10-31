@@ -28,7 +28,7 @@ Si estás interesado en aprender más sobre el desarrollo web, puedes personaliz
 
 ## Vista Previa del Mockup
 
-![Vista Previa del Mockup](URL de la imagen)
+![Vista Previa del Mockup](WebBasica/Mockup.pdf)
 
 
 ## Contribuciones
